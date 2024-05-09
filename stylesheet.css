@@ -1,0 +1,26 @@
+div{
+    margin:auto;
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    text-align:center;
+    padding:25px;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 15px;
+}
+button{
+    width: 200px;
+    text-align: center;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px;
+}
+h1{
+    color: hsl(98, 100%, 50%);
+    font-size:50px;
+    text-shadow: 3px 3px 5px black;
+
+}
+h3{
+    font-size:30px;
+}
