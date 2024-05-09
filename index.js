@@ -7,7 +7,7 @@ let antwort4 = document.getElementById("button4");
 
 
 let richtigeAntwort;
-let quiz = ["Wie lange dauert es, bis das Licht der Sonne die Erde erreicht?", "8 Minuten und 20 Sekunden"," 12 Stunden","1 Tag"," 1 Woche","8 Minuten und 20 Sekunden"];
+let quiz = ["Wie lange dauert es, bis das Licht der Sonne die Erde erreicht?", "8 min 20 sek"," 12h","1 Tag"," 1 Woche","8 Minuten und 20 Sekunden"];
 let quiz2 = ["Welcher Planet hat die meisten Monde in unserem Sonnensystem?","Jupiter", "Mars" , "Saturn", "Uranus","Jupiter"];
 let quiz3 = ["Was ist die größte bekannte Galaxie im Universum?","Die Milchstraße","Andromeda-Galaxie","IC 1101","Whirlpool-Galaxie","IC 1101"];
 let quiz4 = ["Wie viele Planeten hat unser Sonnensystem?","7","8","9","10","8"];
